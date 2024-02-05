@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Poetry
+__pypackages__/
+*.egg
+poetry.lock
+
+# Local configuration
+.idea/
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Spyder settings
+.spyderproject
+.spyproject
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile
+Pipfile.lock
+
+# virtualenv
+venv/
+env/
+
+# Jupyter
+notebook_checkpoints/
